@@ -26,9 +26,9 @@ Click "Initialize System" to process the documentation
 Ask questions and receive both text and voice responses
 
 
-Features in Detail:
+3.Features in Detail:
 
-Knowledge Base Creation
+A)Knowledge Base Creation
 
 Builds a searchable knowledge base from your documentation
 
@@ -37,7 +37,7 @@ Preserves document structure and metadata
 Supports multiple page crawling (limited to 5 pages per default configuration)
 
 
-Vector Search:
+B)Vector Search:
 
 Uses FastEmbed for generating embeddings
 
@@ -46,7 +46,7 @@ Semantic search capabilities for finding relevant content
 Efficient document retrieval using Qdrant
 
 
-Voice Generation:
+C)Voice Generation:
 
 High-quality text-to-speech using OpenAI's TTS models
 
