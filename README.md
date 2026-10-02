@@ -4,11 +4,16 @@
 Streamlit : http://localhost:8501/
 
 
-Configure API Keys
+1.Configure API Keys
 
-Get OpenAI API key from OpenAI Platform.
+*Get OpenAI API key from OpenAI Platform.
+*Get Qdrant API key and URL from Qdrant Cloud.
+*Get Firecrawl API key for documentation crawling.
 
-Get Qdrant API key and URL from Qdrant Cloud.
+2.Use the Interface
 
-Get Firecrawl API key for documentation crawling.
-
+Enter API credentials in the sidebar
+Input the documentation URL you want to learn about
+Select your preferred voice from the dropdown
+Click "Initialize System" to process the documentation
+Ask questions and receive both text and voice responses
