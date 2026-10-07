@@ -1,7 +1,7 @@
 # AI-Voice-Customer-Support
 
 
-Streamlit : http://localhost:8501/
+Streamlit : https://ai-voice-customer-support.streamlit.app/
 
 
 1.Configure API Keys
